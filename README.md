@@ -13,6 +13,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 <a href="https://github.com/Saranga99/website">
   <img src="https://github-readme-stats.vercel.app/api?username=Saranga99&show_icons=true&hide=commits" />
 </a>
+<br>
 <a href="https://github.com/Saranga99/website">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saranga99&layout=compact" />
 </a>
