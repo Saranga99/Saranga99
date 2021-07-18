@@ -9,4 +9,17 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 👯 I’m looking for a software development/Data Science internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hazemessamsaleh) [Gmail](mailto:saranga.2019952@iit.ac.lk)
 
+### 🚦 Stats
+
+<a href="https://github.com/Saranga99/website">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saranga99&show_icons=true&hide=commits" />
+</a>
+<a href="https://github.com/Saranga99/website">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saranga99&layout=compact" />
+</a>
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/Saranga99/count.svg" />
+</p>
+
 ⭐️ From [Saranga](https://github.com/Saranga99)
