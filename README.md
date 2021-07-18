@@ -7,6 +7,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 🔭 I’m currently a CS student at Informatics Institute of Technology.
 - 📚 I’m currently learning  Data Science/Machine Learining from Scratch.
 - 👯 I’m looking for a software development/Data Science internship. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hazemessamsaleh) [Gmail](mailto: saranga.2019952@iit.ac.lk)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hazemessamsaleh) [Gmail](mailto:saranga.2019952@iit.ac.lk)
 
 ⭐️ From [Saranga](https://github.com/Saranga99)
