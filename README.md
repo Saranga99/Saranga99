@@ -18,8 +18,6 @@ I'm a computer science student who is passionate about writing code, solving pro
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saranga99&layout=compact" />
 </a>
 
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/Saranga99/count.svg" />
-</p>
+
 
 ⭐️ From [Saranga](https://github.com/Saranga99)
