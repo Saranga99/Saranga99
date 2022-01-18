@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, 👋
 
 
 I'm a computer science student who is passionate about writing code, solving problems, data analytics and building software.
