@@ -11,7 +11,8 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sarangakumarapeli/) [Gmail](mailto:saranga.2019952@iit.ac.lk)
 
 
-
+<br> 
+<br> 
 ## By the way here are some of my statistics 🚀
 ![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=Saranga99&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
