@@ -13,7 +13,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 ![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=Saranga99&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
 ![Saranga's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saranga99&theme=tokyonight&layout=compact)
-<br> -->
+<br> 
 
 
 <!-- <a href="https://github.com/Saranga99/website">
