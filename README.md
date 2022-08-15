@@ -1,7 +1,7 @@
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ovindu Wijethunge </h1>
-<h3 align="center">Machine Learning Engineer | Data Scientist </h3>
-<p align="center">
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Saranga Kumarapeli</h1>
+<!-- <h3 align="center">Machine Learning Engineer | Data Scientist </h3>
+<p align="center"> -->
 
 
 I'm a computer science student who is passionate about writing code, solving problems, data analytics and building software.
