@@ -8,8 +8,9 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 - 📚 I’m currently learning  Data Science/Machine Learining from Scratch.
 - 🧾️ I commonly use: `.py`, `.ipynb`, `.pibx`, `.r`.
-<!-- - 👯 I’m looking for a software development/Data Science internship (part-time).  -->
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sarangakumarapeli/) [Gmail](mailto:saranga.2019952@iit.ac.lk)
+<!-- - 👯 I’m looking for a software development/Data Science internship (part-time).  -->
+
 
 
 ## By the way here are some of my statistics 🚀
