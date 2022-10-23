@@ -15,15 +15,29 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 ## By the way here are some of my statistics 🚀
 
-![Saranga's github stats](https://github-readme-stats.vercel.app/api?username=Saranga99&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
-![Saranga's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saranga99&theme=tokyonight&layout=compact)
-<br> 
+### 🚦 Stats
 
-
-<a href="https://github.com/Saranga99/website">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saranga99&layout=compact" />
-</a>
+<div>
+  <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=yuebaix&theme=highcontrast&show_icons=true" /></span>
+  <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuebaix&theme=highcontrast&layout=compact&langs_count=10" /></span>
+</div>
+<div>
+  <a href="https://github.com/yuebaix/pangu">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=pangu" />
+  </a>
+    <a href="https://github.com/yuebaix/nezha">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=nezha" />
+  </a>
+  <a href="https://github.com/yuebaix/hongjun">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=hongjun" />
+  </a>
+  <a href="https://github.com/yuebaix/luya">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=luya" />
+  </a>
+    <a href="https://github.com/yuebaix/nvwa">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=nvwa" />
+  </a>
+</div>
 
 
 
