@@ -15,8 +15,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 ## By the way here are some of my statistics 🚀
 
-### 🚦 Stats
-
 <div>
   <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=saranga99&theme=highcontrast&show_icons=true" /></span>
   <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranga99&theme=highcontrast&layout=compact&langs_count=10" /></span>
