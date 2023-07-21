@@ -12,7 +12,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 <!-- - 👯 I’m looking for a software development/Data Science internship (part-time).  -->
 
 <a href="https://www.buymeacoffee.com/saranga99" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 ![Saranga's github stats](https://github-readme-stats.vercel.app/api?username=saranga99&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
